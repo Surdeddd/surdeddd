@@ -55,4 +55,4 @@ GitHub: https://github.com/surdeddd/postcss-viewport-fallback
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=surdeddd&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=surdeddd&show_icons=true&theme=dark)
