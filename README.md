@@ -38,7 +38,7 @@ and I’m actively exploring neural networks and AI agents.
 - C/C++ fundamentals  
 - Understanding of memory, registers, calling conventions
 
-## 📦 Published npm Packages
+## Published npm Packages
 
 ### **postcss-viewport-fallback**  
 Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`)  
@@ -47,12 +47,15 @@ GitHub: https://github.com/surdeddd/postcss-viewport-fallback
 
 ---
 
-## 📬 Contacts
+## Contacts
 
 **Telegram:** https://t.me/surdeddd  
 **Email:** maximkravtsov3355@icloud.com
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=surdeddd&show_icons=true&theme=dark)
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surdeddd&theme=github_dark" width="100%" />
+</p>
