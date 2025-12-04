@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Maxim Kravtsov
 
-<!--
-**Surdeddd/surdeddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** (Vue / React) with strong focus on  
+architecture and scalable UI systems.
 
-Here are some ideas to get you started:
+I enjoy working with low-level concepts, backend development in Node.js / Python,
+and I’m actively exploring neural networks and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+
+### Frontend
+- Vue 3 (Composition API), React, TypeScript  
+- State management: Vuex, Pinia  
+- UI: Vuetify, custom UI components  
+- CSS tools: PostCSS, CSS Variables, Sass, Style Dictionary, Tailwind CSS  
+
+### Backend & APIs
+- Node.js, Express  
+- Python 
+- REST API design, socket.io WebSockets  
+- Redis (caching, queues)
+
+### Build & Tooling
+- Vite, Webpack  
+- ESLint, Prettier, Storybook  
+- Git, Linux/macOS, Bash  
+- PostCSS plugin development (npm-published)
+
+### CI/CD & Automation
+- GitLab CI/CD  
+- Docker  
+- Versioning & deployment workflows
+
+### Low-level & Systems
+- ARM64 Assembly (macOS)  
+- C/C++ fundamentals  
+- Understanding of memory, registers, calling conventions
+
+## 📦 Published npm Packages
+
+### **postcss-viewport-fallback**  
+Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`)  
+NPM: https://www.npmjs.com/package/postcss-viewport-fallback  
+GitHub: https://github.com/surdeddd/postcss-viewport-fallback
+
+---
+
+## 📬 Contacts
+
+**Telegram:** https://t.me/surdeddd  
+**Email:** maximkravtsov3355@icloud.com
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=surdeddd&show_icons=true&theme=dracula)
