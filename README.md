@@ -40,15 +40,15 @@ and I’m actively exploring neural networks and AI agents.
 
 ## Published npm Packages
 
-### **postcss-viewport-fallback**  
-Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`)  
-NPM: https://www.npmjs.com/package/postcss-viewport-fallback  
+### **postcss-viewport-fallback**
+Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`) <br>
+NPM: https://www.npmjs.com/package/postcss-viewport-fallback <br>
 GitHub: https://github.com/surdeddd/postcss-viewport-fallback
 
-### **@surdeddd/bottom-sheet**  
+### **@surdeddd/bottom-sheet**
 Universal, headless bottom sheet — framework-agnostic core with React, Vue 3, Svelte, Solid,
-Qwik, Preact & Lit adapters
-NPM: https://www.npmjs.com/package/@surdeddd/bottom-sheet
+Qwik, Preact & Lit adapters <br>
+NPM: https://www.npmjs.com/package/@surdeddd/bottom-sheet <br>
 GitHub: https://github.com/surdeddd/BottomSheet
 
 ---
