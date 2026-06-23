@@ -45,6 +45,12 @@ Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`)
 NPM: https://www.npmjs.com/package/postcss-viewport-fallback  
 GitHub: https://github.com/surdeddd/postcss-viewport-fallback
 
+### **@surdeddd/bottom-sheet**  
+Universal, headless bottom sheet — framework-agnostic core with React, Vue 3, Svelte, Solid,
+Qwik, Preact & Lit adapters
+NPM: https://www.npmjs.com/package/@surdeddd/bottom-sheet
+GitHub: https://github.com/surdeddd/BottomSheet
+
 ---
 
 ## Contacts
