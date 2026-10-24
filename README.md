@@ -40,16 +40,31 @@ and I’m actively exploring neural networks and AI agents.
 
 ## Published npm Packages
 
-### **postcss-viewport-fallback**
-Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`) <br>
-NPM: https://www.npmjs.com/package/postcss-viewport-fallback <br>
-GitHub: https://github.com/surdeddd/postcss-viewport-fallback
+### **@surdeddd/wmkit**
+Headless window manager for the web — draggable, resizable, snappable windows for React, Vue, Svelte, Solid and vanilla JS <br>
+NPM: https://www.npmjs.com/package/@surdeddd/wmkit <br>
+GitHub: https://github.com/surdeddd/wmkit
+
+### **@surdeddd/liquidglass**
+Liquid Glass for the whole web — real refraction over live DOM, spring physics, every browser and framework <br>
+NPM: https://www.npmjs.com/package/@surdeddd/liquidglass <br>
+GitHub: https://github.com/surdeddd/liquidglassjs
 
 ### **@surdeddd/bottom-sheet**
 Universal, headless bottom sheet — framework-agnostic core with React, Vue 3, Svelte, Solid,
 Qwik, Preact & Lit adapters <br>
 NPM: https://www.npmjs.com/package/@surdeddd/bottom-sheet <br>
 GitHub: https://github.com/surdeddd/BottomSheet
+
+### **postcss-viewport-fallback**
+Automatic fallbacks for modern viewport units (`dvh`, `dvw`, `svh`, `lvh`) <br>
+NPM: https://www.npmjs.com/package/postcss-viewport-fallback <br>
+GitHub: https://github.com/surdeddd/postcss-viewport-fallback
+
+### **docsterm**
+Embeddable AI terminal for documentation — live in-browser console with an AI command assistant (xterm.js + Pyodide) <br>
+NPM: https://www.npmjs.com/package/docsterm <br>
+GitHub: https://github.com/surdeddd/docsterm
 
 ---
 
